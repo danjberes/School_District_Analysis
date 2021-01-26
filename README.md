@@ -5,13 +5,13 @@ the purpose of this analysis is to investigate potential academic dishonesty fro
 
 ##Results
 The values that were obtained when accounting for potentially manipulated data showed a slight decrease in passing rates for math, reading, and overall. 
-![district_summary](./Desktop/CodingBootcamp/Module4/Resources/district_summary.png)
+![district_summary](./Images/district_summary.png)
 While this may not seem like a significant increase, one school changing it's overall values when compared to 14 other schools. A closer look can be seen in the images below.
 
 The following image includes the value of Thomas High School with the suspected data included.
-![THS_Summary](./Desktop/CodingBootcamp/Module4/Resources/THS_summary.png)
+![THS_Summary](./Images/THS_summary.png)
 This image is the overall 15 district summary. Thomas High School has most of their scores increased by ~25%, a very significant increase.
-![per_school_summary](./Desktop/CodingBootcamp/Module4/Resources/per_school_summary.png)
+![per_school_summary](./Images/per_school_summary.png)
 
 This increase in performance puts Thomas High School among a top 5 performing school within the district.
 While there were not many significant increases to overall district performance in math & reading scores by grade, scores by school spending, scores by school size, or scores by school type, the individual impact to Thomas High School was incredibly noticeable.
