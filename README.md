@@ -1,9 +1,9 @@
 # School_District_Analysis
 
-##Overview
+## Overview
 the purpose of this analysis is to investigate potential academic dishonesty from Thomas High School, more specifically the ninth grade reading and math standardized grades. It is suspected that the data might have been altered, so it is up to us for this challenge to modify the data and calculate the new percentages by ignoring the data that has been suspected of manipulation.
 
-##Results
+## Results
 The values that were obtained when accounting for potentially manipulated data showed a slight decrease in passing rates for math, reading, and overall. 
 ![district_summary](./Images/district_summary.png)
 While this may not seem like a significant increase, one school changing it's overall values when compared to 14 other schools. A closer look can be seen in the images below.
@@ -16,7 +16,7 @@ This image is the overall 15 district summary. Thomas High School has most of th
 This increase in performance puts Thomas High School among a top 5 performing school within the district.
 While there were not many significant increases to overall district performance in math & reading scores by grade, scores by school spending, scores by school size, or scores by school type, the individual impact to Thomas High School was incredibly noticeable.
 
-###Summary
+### Summary
 By ignoring (replacing with NaN) 9th grade reading and math scores for Thomas High School, the overall performance was less than a percentage point. However, Thomas High School saw the following drastic changes:
 * Math Passing percentages: 66.92% -> 93.18%
 * Reading Passing percentages: 69.66% -> 97.01%
